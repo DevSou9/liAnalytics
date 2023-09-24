@@ -1,0 +1,10 @@
+{
+    "pedidos":[
+        {"id": "Produto 1", "cliente": "Juca", "aprovado": true, "valor_subtotal": 200, "valor_total": 230},
+        {"id": "Produto 2", "cliente": "Fulano", "aprovado": true, "valor_subtotal": 50, "valor_total": 80},
+        {"id": "Produto 3", "cliente": "Joao", "aprovado": false, "valor_subtotal": 100, "valor_total": 110},
+        {"id": "Produto 4", "cliente": "Maria", "aprovado": true, "valor_subtotal": 300, "valor_total": 300},
+        {"id": "Produto 5", "cliente": "Joao", "aprovado": false, "valor_subtotal": 90, "valor_total": 100},
+        {"id": "Produto 6", "cliente": "Joao", "aprovado": false, "valor_subtotal": 100, "valor_total": 200}
+    ]
+}
